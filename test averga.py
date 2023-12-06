@@ -12,3 +12,4 @@ elif m3 <= m1 and m3 <= m2:
     avgMarks = (m1+m2)/2    
     
 print("Average of best two test marks  out of three tests marks is", avgMarks);
+//hi bro i just added some comments
